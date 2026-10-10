@@ -1,0 +1,9 @@
+SITIO-SAMANIEGO - ARCHIVOS CORREGIDOS
+
+1. Sube TODO el contenido de esta carpeta al repositorio de GitHub (no subas solamente el ZIP).
+2. index.html debe quedar directamente en la raíz del repositorio.
+3. En Settings > Pages, elige Deploy from a branch, rama main y carpeta /(root).
+4. Guarda y espera a que GitHub Pages termine la publicación.
+5. Abre https://TUUSUARIO.github.io/sitio-samaniego/ (reemplaza TUUSUARIO).
+
+Se corrigieron los nombres de las páginas HTML, los enlaces del menú y los nombres de archivos multimedia para mejorar compatibilidad con GitHub Pages.
